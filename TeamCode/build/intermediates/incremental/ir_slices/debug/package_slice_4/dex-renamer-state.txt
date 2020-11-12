@@ -1,0 +1,4 @@
+#Sun Dec 15 09:26:33 GMT-07:00 2019
+base.0=C\:\\SkyStone-master\\TeamCode\\build\\intermediates\\transforms\\dexMerger\\debug\\4
+path.0=classes.dex
+renamed.0=classes.dex
