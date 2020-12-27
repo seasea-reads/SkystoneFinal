@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/SkystoneFinal.iml" filepath="$PROJECT_DIR$/.idea/SkystoneFinal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FtcRobotController/FtcRobotController.iml" filepath="$PROJECT_DIR$/.idea/modules/FtcRobotController/FtcRobotController.iml" group="SkystoneFinal/FtcRobotController" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/SkystoneFinal.iml" filepath="$PROJECT_DIR$/.idea/SkystoneFinal.iml" group="SkystoneFinal" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TeamCode/TeamCode.iml" filepath="$PROJECT_DIR$/.idea/modules/TeamCode/TeamCode.iml" group="SkystoneFinal/TeamCode" />
     </modules>
   </component>
 </project>
